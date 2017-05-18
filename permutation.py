@@ -1,7 +1,7 @@
 # string permutations
 # range() interates through sequence of numbers
 # len() iterates through sequence using index
-def permute(str)
+def permute(str):
     if len(str) == 1:
         return [str]
 
